@@ -8,13 +8,11 @@ It will connect to other people running the program using Bittorrent DHT.
 It will sync blocks between clients and verify if received blocks are valid.
 It will also mine new blocks.
 
-------------------------------------------
 
 ## Installing ##
 
 `npm install`
 
-------------------------------------------
 
 ## Usage ##
 
